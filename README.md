@@ -1,5 +1,5 @@
 # echarts
-echarts曲线图自适应屏幕显示，作者：jh_su
+echarts曲线图自适应屏幕显示
 
 曲线图能够自适应屏幕大小（包括pc端和移动端）
 
